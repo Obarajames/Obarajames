@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Obarajames
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently working on my startup
 - 💞️ I’m looking to collaborate on new projects
-- 📫 Crazy that i have not watched fast X.
+- 📫 I'm a passionate dev
 
 <!---
 Obarajames/Obarajames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
